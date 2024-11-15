@@ -63,7 +63,7 @@
 		<revision>2.4.0-SNAPSHOT</revision>
 		<java.version>1.8</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<apollo-java.version>2.2.0</apollo-java.version>
+		<apollo-java.version>2.4.0-SNAPSHOT</apollo-java.version>
 		<spring-boot.version>2.7.11</spring-boot.version>
 		<spring-cloud.version>2021.0.5</spring-cloud.version>
 		<!-- sort by alphabet -->
@@ -78,7 +78,7 @@
 		<junit.version>5.9.2</junit.version>
 		<nacos-discovery-api.version>1.4.0</nacos-discovery-api.version>
 		<!-- database driver -->
-		<mysql-connector-j.version>8.0.32</mysql-connector-j.version>
+		<mysql-connector-j.version>8.2.0</mysql-connector-j.version>
 		<postgre.version>42.7.2</postgre.version>
 		<!-- Plugins Version sort by alphabet -->
 		<maven-assembly-plugin.version>3.3.0</maven-assembly-plugin.version>
